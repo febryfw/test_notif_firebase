@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "516147169469",
+    "firebase_url": "https://skor-test-notif.firebaseio.com",
+    "project_id": "skor-test-notif",
+    "storage_bucket": "skor-test-notif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516147169469:android:59642bb04f91c436",
+        "android_client_info": {
+          "package_name": "com.root.testnotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516147169469-tsfj9amm5p44pqkeoe3ab834j9i5c2aq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.root.testnotif",
+            "certificate_hash": "cf1f531e31ff996c81eb4e528de69770efb9a4ec"
+          }
+        },
+        {
+          "client_id": "516147169469-1epp47sp29e1ldmteeb297qm8rnjmvg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnQYSk-uixLprOKmAauHNBow3aRrod2ks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516147169469-1epp47sp29e1ldmteeb297qm8rnjmvg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
